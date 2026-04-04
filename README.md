@@ -6,7 +6,7 @@ Collection of data analyst projects focused on extracting insights, analyzing tr
 
 ## 🚀 Projects
 
-### 🛒 [Customer Shopping Behavior Analysis](https://your-project-link-here.com)  
+### 🛒 [Customer Shopping Behavior Analysis](https://github.com/ShivamMahto2105/Data-Analyst-Projects/tree/main/1%20Customer%20Behaviour%20Analysis)  
 Analysis of 3,900+ transactions to understand customer behavior, spending patterns, and product performance using Python, SQL, and Power BI.
 
 ---

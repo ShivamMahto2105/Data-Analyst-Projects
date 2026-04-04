@@ -7,17 +7,17 @@ The goal is to uncover insights into customer spending patterns, product prefere
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](https://your-image-link-here.com/dashboard.png)
+![Dashboard Preview](https://github.com/ShivamMahto2105/Data-Analyst-Projects/blob/main/1%20Customer%20Behaviour%20Analysis/Preview.png)
 
 ---
 
 ## 🔗 Project Links
 
-- 📊 **Dataset**: https://your-data-link-here.com  
-- 🧠 **Jupyter Notebook (EDA)**: https://your-notebook-link-here.com  
-- 🗄️ **SQL Queries**: https://your-sql-link-here.com  
-- 📈 **Power BI Dashboard / PPT**: https://your-ppt-link-here.com  
-
+- ![Dataset](https://github.com/ShivamMahto2105/Data-Analyst-Projects/blob/main/1%20Customer%20Behaviour%20Analysis/Customer_Data.csv)  
+- ![EDA](https://github.com/ShivamMahto2105/Data-Analyst-Projects/blob/main/1%20Customer%20Behaviour%20Analysis/Customer_Behaviour_Analysis.ipynb) 
+- ![SQL Queries](https://github.com/ShivamMahto2105/Data-Analyst-Projects/blob/main/1%20Customer%20Behaviour%20Analysis/Customer_Behaviour_Analysis.sql)
+- ![Presentation](https://github.com/ShivamMahto2105/Data-Analyst-Projects/blob/main/1%20Customer%20Behaviour%20Analysis/Customer-Shopping-Behavior-Analysis.pptx)
+- ![Power BI DashBoard](https://github.com/ShivamMahto2105/Data-Analyst-Projects/blob/main/1%20Customer%20Behaviour%20Analysis/Customer_Behaviour_Dashboard.pbix)
 ---
 
 ## 📊 Dataset Summary
@@ -94,7 +94,7 @@ Created an interactive dashboard to visualize:
 
 ## 🛠️ Tech Stack
 - Python (Pandas, NumPy)  
-- PostgreSQL  
+- MSSQL 
 - Power BI  
 
 ---
