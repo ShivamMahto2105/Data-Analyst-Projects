@@ -12,5 +12,5 @@ Analysis of 3,900+ transactions to understand customer behavior, spending patter
 ---
 
 ## 📬 Contact
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
+- LinkedIn: https://www.linkedin.com/in/shivam-kumar-mahto-b7a84a311/ 
+- GitHub: https://github.com/ShivamMahto2105 
