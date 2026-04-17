@@ -18,7 +18,7 @@ The dataset consists of two relational tables:
 - `employees.csv`
 - `departments.csv`
 
-📥 ![Dataset Link]() : Access the dataset
+📥 ![Dataset Link](https://github.com/ShivamMahto2105/Data-Analyst-Projects/blob/main/2%20Employee%20Analytics/dataset.py) : Generate the Dataset.
 ---
 
 ## 🗄️ Database Schema
@@ -46,7 +46,7 @@ The project includes **15 SQL queries (Basic → Advanced)** covering:
 - Window functions (RANK, Running Total)  
 - Business insights  
 
-📄 ![SQL Queries Link]() : All Query that i used in For Analysis.
+📄 ![SQL Queries Link](https://github.com/ShivamMahto2105/Data-Analyst-Projects/blob/main/2%20Employee%20Analytics/scripts/Query.sql) : All Query that i used in For Analysis.
 
 ---
 
